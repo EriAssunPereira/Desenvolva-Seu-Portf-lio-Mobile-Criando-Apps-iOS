@@ -1,0 +1,29 @@
+**Descrição do Projeto:**
+
+Neste desafio de projeto, você terá a missão de desenvolver **três aplicativos** no **Xcode**, explorando diferentes tecnologias e padrões de projetos. Vamos detalhar cada um dos projetos:
+
+1. **Primeiro Projeto (UIKit, Storyboard, XIB e ViewCode):**
+   - Utilize o **Swift** como linguagem de programação.
+   - Crie um aplicativo com **mínimo três telas**.
+   - Explore as seguintes tecnologias:
+     - **UIKit**: Crie a interface do usuário usando componentes UIKit.
+     - **Storyboard e XIB**: Utilize Storyboards e/ou arquivos XIB para definir as telas.
+     - **ViewCode**: Implemente pelo menos uma tela utilizando programaticamente a criação de views.
+     - **Cocoapods**: Gerencie pelo menos uma dependência usando o Cocoapods.
+
+2. **Segundo Projeto (SwiftUI e Combine):**
+   - Utilize o **SwiftUI** para criar o segundo aplicativo.
+   - Explore o **Combine** para lidar com programação reativa.
+   - Utilize o **Swift Package Manager (SPM)** para gerenciar pelo menos uma dependência.
+   - Desenvolva uma interface intuitiva e explore as possibilidades do SwiftUI.
+
+3. **Terceiro Projeto (Modularização):**
+   - Explore o conceito de **modularização**.
+   - Você pode optar por usar **UIKit** ou **SwiftUI**.
+   - Crie um **módulo** bem simples (pode ser uma funcionalidade específica) usando o Cocoapods.
+   - Desenvolva um **App** que utilize esse módulo.
+   - O foco aqui é entender como modularizar seu código e reutilizar componentes.
+
+https://github.com/robixnai/testesQualidadeSoftwareAppsiOS
+
+https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EbH9B3yNEZBEtFvhkgSEjNoB6xtM_-0rGhbmcaXsFcXQ2g?e=Y8S7Ze
